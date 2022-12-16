@@ -2,7 +2,7 @@
 ## Table of Contents
 
 [TOC]
-## Beginners Guide
+## 開始
 
 If you are a total beginner to this, start here!
 
@@ -10,5 +10,7 @@ If you are a total beginner to this, start here!
 2. Click "Sign in"
 3. Choose a way to sign in
 4. Start writing note!
-
+```typescript
+git clone 
+```
 User story
